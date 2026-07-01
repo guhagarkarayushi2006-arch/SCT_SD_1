@@ -1,40 +1,69 @@
-# 🌡️ Temperature Converter
+# Temperature Converter 🌡️
 
-## 📌 Project Description
-This project is a Temperature Converter developed using Python. It allows users to convert temperatures between Celsius, Fahrenheit, and Kelvin. The project includes both a console-based application and a graphical user interface (GUI) built with Tkinter.
+## About the Project
 
-## ✨ Features
+This is my first project as part of my Software Development Internship at SkillCraft Technology.
+
+I created a Temperature Converter application using Python that converts temperatures between Celsius, Fahrenheit, and Kelvin. I built both a basic console version and a GUI version using Tkinter to make the application more user-friendly.
+
+## Features
+
 - Convert Celsius to Fahrenheit and Kelvin
 - Convert Fahrenheit to Celsius and Kelvin
 - Convert Kelvin to Celsius and Fahrenheit
-- User-friendly GUI using Tkinter
-- Handles invalid input
+- Simple and easy-to-use interface
+- GUI application using Tkinter
+- Handles invalid inputs
 
-## 🛠️ Technologies Used
+## Technologies Used
+
 - Python
-- Tkinter
-- Git
-- GitHub
+- Tkinter (for GUI)
 - Visual Studio Code
+- Git & GitHub
 
-## 📂 Project Files
-- `temperature_converter.py` – Console version
-- `temperature_converter_gui.py` – GUI version
+## Project Files
 
-## ▶️ How to Run
+```
+SCT_SD_1
+│
+├── temperature_converter.py
+├── temperature_converter_gui.py
+└── README.md
+```
+
+## How to Run
 
 ### Console Version
-```bash
+
+Run the following command:
+
+```
 python temperature_converter.py
 ```
 
 ### GUI Version
-```bash
+
+Run:
+
+```
 python temperature_converter_gui.py
 ```
 
-## 👩‍💻 Author
-Ayushi Guhagarkar
+## What I Learned
 
-## 🎓 Internship
-SkillCraft Technology – Software Development Internship
+While working on this project, I learned more about:
+
+- Python conditional statements and functions
+- Creating user-driven applications
+- Building a GUI using Tkinter
+- Using Git and GitHub for version control
+
+## Internship
+
+SkillCraft Technology  
+Software Development Internship - Task 1
+
+## Author
+
+Ayushi Guhagarkar
